@@ -29,12 +29,6 @@ Interested in backend development, data processing, and system design.
 
 ## Experience
 
-### Sensor-Based Spraying Detection System
-
-* Built a simulation system to analyze spraying coverage using GPS data
-* Implemented logic for detecting overlap, uncovered, and covered areas
-* Visualized outputs using graph-based plotting
-
 ### SAP S/4HANA Support (Internship)
 
 * Worked on approval system logic for sales order workflows
