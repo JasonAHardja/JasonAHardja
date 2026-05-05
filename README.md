@@ -74,11 +74,4 @@ Interested in backend development, data processing, and system design.
 * Writing cleaner, modular Python code
 * Improving problem-solving patterns
 
----
-
-## Contact
-
-* Portfolio: https://jasonfolio-ghxn2kmd.manus.space/
-
-
 
